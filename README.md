@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dean!</h1>
 <h3 align="center">Scholar @Codecademy | Writer @Medium | #100DaysofCode | #CodeforGood | #LetsBuildTogether | Coding @Github</h3>
 
-- 🔭 I’m currently working on **completing courses on Codecademy & Free Code Campy**
+- 🔭 I’m currently working on **completing courses on Codecademy & Free Code Camp**
 - 🌱 I’m currently learning **Git, Python, Javascript, React, Vue, VS Code, and everything syntax**
 - 👯 I’m looking to collaborate on **anything**
 - 🤝 I’m looking for help with **learning JS and React**
